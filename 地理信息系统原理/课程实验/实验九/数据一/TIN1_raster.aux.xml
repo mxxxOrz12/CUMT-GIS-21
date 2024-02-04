@@ -1,0 +1,35 @@
+<PAMDataset>
+  <Metadata domain="OVERVIEWS">
+    <MDI key="OVERVIEW_FILE">C:\Users\Ma\AppData\Local\ESRI\rasterproxies/000005_D__CUMT_GIS________________________________GIS_______________________________________TIN1_raster.ovr</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>TIN1_raster</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>886.3563232421875</HistMin>
+        <HistMax>1080.695678710938</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>11|23|34|48|109|59|49|58|56|58|76|187|99|77|93|87|102|218|132|107|99|113|97|114|206|105|92|81|98|91|116|157|87|82|90|80|88|181|88|92|101|101|93|135|279|130|123|123|119|147|252|122|145|155|189|230|343|919|577|525|621|643|753|1685|1073|1125|1053|1162|933|952|1393|685|736|829|692|701|1172|740|530|497|476|376|420|809|367|357|349|334|307|349|646|289|278|282|320|295|628|267|239|230|248|240|238|526|277|244|200|205|226|456|226|205|214|177|174|197|505|201|193|171|215|189|512|229|176|187|191|184|182|501|201|190|175|148|173|417|178|146|146|140|135|179|395|155|126|154|130|126|132|363|166|145|123|109|125|348|100|109|104|94|85|98|216|92|102|81|93|96|302|102|96|89|85|90|88|238|62|55|59|59|58|179|57|50|67|51|62|54|121|45|44|48|37|45|40|166|38|48|38|31|49|128|33|25|34|25|29|24|93|20|23|11|15|10|48|18|23|13|17|15|11|52|12|7|7|7|7|17|1|0|4|1|1|2|0|2|3|4|3|0|0|0|1|0|1|1|0|0|1|1|0|1|1|0|0|1</HistCounts>
+      </HistItem>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>-1</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_COVARIANCES">1041.10372824892</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

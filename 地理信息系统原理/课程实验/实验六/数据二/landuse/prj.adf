@@ -1,0 +1,9 @@
+Projection    STATEPLANE                                                        
+Zone          5526                                                              
+Datum         NAD83                                                             
+Zunits        NO                                                                
+Units         METERS                                                            
+Spheroid      GRS1980                                                           
+Xshift        0.0000000000                                                      
+Yshift        0.0000000000                                                      
+Parameters                                                                      

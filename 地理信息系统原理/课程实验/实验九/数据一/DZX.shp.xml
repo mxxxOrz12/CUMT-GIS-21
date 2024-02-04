@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20230623</CreaDate><CreaTime>20444300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis10.8\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\Contour" Date="20230623" Time="204443">Contour TIN1_raster D:\CUMT\GIS课程\地理信息系统原理\GIS原理实验数据\实验九\数据一\DZX.shp 3 0 1 CONTOUR #</Process></lineage></DataProperties></Esri><contour_type>CONTOUR</contour_type></metadata>
