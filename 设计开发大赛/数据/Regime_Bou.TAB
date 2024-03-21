@@ -1,0 +1,33 @@
+!table
+!version 410
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 26
+    NAME_PY Char (40) ;
+    NAME_CH Char (30) ;
+    NAME_FT Char (30) ;
+    X_COOR Decimal (10, 6) ;
+    Y_COOR Decimal (10, 6) ;
+    PRES_LOC Char (40) ;
+    TYPE_PY Char (15) ;
+    TYPE_CH Char (10) ;
+    LEV_RANG Char (1) ;
+    BEG_YR Smallint ;
+    BEG_RULE Char (1) ;
+    END_YR Smallint ;
+    END_RULE Char (1) ;
+    TEMP1 Char (30) ;
+    TEMP2 Char (20) ;
+    NOTE_ID Integer ;
+    OBJ_TYPE Char (7) ;
+    SYS_ID Integer ;
+    LOC_ID Integer ;
+    GEO_ID Integer ;
+    GEO_ORIG Char (1) ;
+    GEO_SRC Char (10) ;
+    COMPILER Char (10) ;
+    GECOMPLR Char (10) ;
+    CHECKER Char (10) ;
+    ENT_DATE Char (10) ;
