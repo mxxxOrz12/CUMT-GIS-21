@@ -12,7 +12,7 @@
 </body>
 <script>
 
-    //防抖函数，在指定时间内只执行一次，避免频繁触发
+    //防抖函数，防止函数在短时间内多次触发
     const debounce = (func, delay) => {
         let timer;
         return function (...args) {
