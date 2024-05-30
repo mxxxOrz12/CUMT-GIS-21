@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        const data = () => {
+            let now = new Date();
+            let hour = now.getHours();
+            now = now.toLocaleTimeString();
+            console.log(hour);
+            if (hour >= 6 && hour < 8) {
+                alert('早上好，' + '现在时间是：' + now);
+            } else if (hour >= 8 && hour < 12) {
+                alert('上午好，' + '现在时间是：' + now);
+            } else if (hour >= 12 && hour < 18) {
+                alert('下午好，' + '现在时间是：' + now);
+            } else if (hour >= 18 && hour < 24) {
+                alert('晚上好，' + '现在时间是：' + now);
+            }
+            else {
+                alert('凌晨好,该休息了，' + '现在时间是：' + now);
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <button onclick="data()">时间函数</button>
+
+</body>
+
+</html>
