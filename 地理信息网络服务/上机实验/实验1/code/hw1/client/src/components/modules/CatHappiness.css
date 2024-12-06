@@ -1,0 +1,24 @@
+.CatHappiness-container {
+  border-radius: var(--xs);
+  margin-top: var(--m);
+}
+
+.CatHappiness-container:first-of-type {
+  margin-top: var(--l);
+}
+
+.CatHappiness-story {
+  display: flex;
+  justify-content: center;
+}
+.CatHappiness-stars {
+  padding-left: 20px;
+  font-size: 30px;
+  font-weight: 600;
+  color: rgb(120, 201, 255);
+}
+
+.CatHappiness-storyContent {
+  font-size: 40px;
+  margin: var(--s) 0 0;
+}

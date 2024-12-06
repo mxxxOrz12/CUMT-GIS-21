@@ -1,0 +1,52 @@
+.Profile-avatarContainer {
+  padding: 0 38%;
+}
+
+.Profile-avatar {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  display: block;
+  padding-top: 100%;
+  border-radius: 50%;
+  background-position-y: center;
+  background-position-x: center;
+  background-repeat: no-repeat;
+
+  background-size: cover;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("../../public/pic1.jpg");
+}
+
+.Profile-name {
+  font-size: 40px;
+  font-weight: 300;
+}
+
+.Profile-line {
+  border-color: var(--grey);
+}
+
+.Profile-subContainer {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+.Profile-subContainer + .Profile-subContainer {
+  margin-left: var(--m);
+}
+
+.Profile-subTitle {
+  font-weight: 300;
+  font-size: 24px;
+  margin: var(--m) var(--s);
+}
+.Profile-subTitle2 {
+  font-weight: 500;
+  font-size: 24px;
+  margin: var(--m) var(--s);
+}

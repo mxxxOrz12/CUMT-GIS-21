@@ -1,0 +1,19 @@
+.My-avatar {
+  background-image: url("../../public/profile.png");
+  width: 100%;
+  height: 500px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.My-button {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+.My-button-item {
+  margin-left: 20px;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}

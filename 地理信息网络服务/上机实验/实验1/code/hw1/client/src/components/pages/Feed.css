@@ -1,0 +1,20 @@
+.Feed-comment {
+  margin-top: 250px;
+  border: 2px solid #b6c1ff;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+}
+.Feed-comment-title {
+  font-size: 28px;
+  font-weight: bold;
+}
+.Feed-anchor {
+  position: fixed;
+  bottom: 90px;
+  right: 120px;
+  display: flex;
+  flex-direction: column;
+}
+.anchor {
+  padding: 8px;
+}

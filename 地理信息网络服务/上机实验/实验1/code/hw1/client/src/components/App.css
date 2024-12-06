@@ -1,0 +1,10 @@
+.App-container {
+  max-width: 1060px;
+  padding: var(--m) var(--m);
+  margin: auto;
+}
+html,
+body,
+#root {
+  height: 100%;
+}
